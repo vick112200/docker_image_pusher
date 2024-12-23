@@ -3,4 +3,4 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=arm64 semaphoreui/semaphore:v2.10.43
+--platform=arm64 nginx:1.19.8
